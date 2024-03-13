@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="text1">Quick Delivery At Your \nDoorstep</string>
+    <string name="text2">Enjoy quick pick-up and delivery to \nyour destination</string>
+    <string name="text3">Skip</string>
+    <string name="text4">Next</string>
+</resources>
